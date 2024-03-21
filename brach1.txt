@@ -1,2 +1,3 @@
+smth changed 3
 smth changed 2
 smth changed 1
